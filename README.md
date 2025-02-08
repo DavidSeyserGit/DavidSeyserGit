@@ -1,5 +1,5 @@
 # Hello World!, I'm David, an Austrian Researcher/Lecturer in Industrial Robotics 👋🏼:
-🛜 currently working on an ABB-Klipper Bridge<br>👨🏼‍🎓 studying Robotics Enginnering at UAS Technikum Wien<br>👨🏼‍💻 working as a Junior Researcher/Lecturer
+🧑‍💻currently working on an ABB-Klipper Bridge<br>👨🏼‍🎓 studying Robotics Enginnering at UAS Technikum Wien<br>👨🏼‍💻 working as a Junior Researcher/Lecturer
 
 
 # 💻 Tech Stack:
